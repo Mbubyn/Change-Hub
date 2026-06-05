@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log*
+.npm
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated content (re-run scripts/parse-scorm.js to regenerate)
+# Uncomment if you want to exclude generated content from version control:
+# content/pages/
+
+# Local environment
+.env
+.env.local
+
+# Build artifacts (none expected — this is a no-build project)
+dist/
+build/

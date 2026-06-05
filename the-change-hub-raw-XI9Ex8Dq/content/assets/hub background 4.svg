@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1940 250"><defs><style>.cls-1 {
+        fill: #7d9f0c;
+      }
+
+      .cls-2 {
+        fill: #dbdb63;
+      }
+
+      .cls-3 {
+        fill: #1c4f52;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: url(#New_Pattern_Swatch_1);
+        opacity: .15;
+      }
+
+      .cls-5 {
+        stroke: #7d9f0c;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }</style><clipPath id="clippath"><rect class="cls-4" width="1940" height="250"/></clipPath><linearGradient id="linear-gradient" x1="1017.16" y1="-973.05" x2="863.85" y2="-796.26" gradientTransform="translate(-1155.33 -366.43) rotate(65.7)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1c4f52"/><stop offset=".15" stop-color="#1f5659"/><stop offset=".37" stop-color="#28696d"/><stop offset=".64" stop-color="#378a8f"/><stop offset=".95" stop-color="#4cb6bd"/><stop offset="1" stop-color="#50bfc6"/></linearGradient><pattern id="New_Pattern_Swatch_1" data-name="New Pattern Swatch 1" x="0" y="0" width="406.25" height="406.25" patternTransform="translate(-7740.22 -10175.21) rotate(-178.47) scale(.02)" patternUnits="userSpaceOnUse" viewBox="0 0 406.25 406.25"><g><rect class="cls-4" width="406.25" height="406.25"/><path class="cls-4" d="M347.92,406.25H58.33C58.33,374.03,32.22,347.92,0,347.92V58.33C32.22,58.33,58.33,32.22,58.33,0h289.58c0,32.22,26.12,58.33,58.33,58.33v289.58c-32.22,0-58.33,26.12-58.33,58.33ZM261.46,203.13c0-32.22-26.12-58.33-58.33-58.33s-58.33,26.12-58.33,58.33,26.12,58.33,58.33,58.33,58.33-26.12,58.33-58.33Z"/><path class="cls-2" d="M58.33,0H0v58.33C32.22,58.33,58.33,32.22,58.33,0Z"/><path class="cls-2" d="M406.25,58.33V0h-58.33c0,32.22,26.12,58.33,58.33,58.33Z"/><circle class="cls-2" cx="203.13" cy="203.13" r="58.33" transform="translate(-84.14 203.13) rotate(-45)"/><path class="cls-2" d="M0,347.92v58.33h58.33C58.33,374.03,32.22,347.92,0,347.92Z"/><path class="cls-2" d="M406.25,347.92c-32.22,0-58.33,26.12-58.33,58.33h58.33v-58.33Z"/></g></pattern></defs><g id="Layer_1-2" data-name="Layer 1"><g class="cls-8"><g><rect class="cls-3" x="0" y="-1725" width="1940" height="4621"/><circle class="cls-7" cx="38.01" cy="126.62" r="117.01"/><circle class="cls-5" cx="1776.56" cy="157.42" r="15.16"/><circle class="cls-6" cx="1721.63" cy="118.63" r="72.66"/><circle class="cls-1" cx="1553.62" cy="49.62" r="3.53"/></g></g></g></svg>
