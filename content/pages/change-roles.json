@@ -1,0 +1,201 @@
+{
+  "slug": "change-roles",
+  "title": "Change Roles",
+  "lessonId": "yQgQNHdZS67QW9yRrpNsI7anpDbCJ8Dn",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "<p><span><strong>Introduction: Understanding Change Roles</strong></span></p>",
+      "body": "<p><span>Once an initiative begins, effective change <span><strong>requires teamwork from different roles</strong></span>, each bringing unique skills. Knowing these roles helps organize work and ensures successful change. Change teams can have both formal and informal roles, and these responsibilities may shift depending on the size and complexity of the initiative.</span></p><p><span>In addition to the <span><strong>Change Leader</strong></span> and <span><strong>Change Manager</strong></span>, two other roles—<span><strong>Middle Manager</strong></span> and <span><strong>Change Agent</strong></span>—are essential to bridging the gap between planning and implementation. These roles help translate the change strategy into actionable steps and ensure the changes are embedded within impacted areas. Together, all four roles create a dynamic, interconnected relationship, enabling a continuous feedback loop that links on-the-ground insights and feedback back to strategy and planning, supporting alignment and smoother transitions throughout the organization.</span></p>"
+    },
+    {
+      "type": "hotspot",
+      "image": "assets/wave (3).svg",
+      "spots": []
+    },
+    {
+      "type": "text",
+      "body": "<p><span><span><strong>Here are the key roles that make up an effective </strong></span></span><span><span><strong>change management team:</strong></span></span></p>"
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Change Manager</strong></span></span></p>",
+      "attribution": "<p><span>Plans, organizes, and coordinates the change process, focusing on structured implementation and ensuring that people are supported throughout the transition.</span></p>",
+      "image": "assets/Annotation 2024-11-05 142715.jpg"
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Change Leader</strong></span></span></p>",
+      "attribution": "<p><span>Sets the vision for the change, inspiring and motivating the organization to embrace and drive the transformation.</span></p>",
+      "image": "assets/Annotation 2024-11-05 142905.jpg"
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Change Agent</strong></span></span></p>",
+      "attribution": "<p><span>A key advocate for the change who supports implementation by influencing peers, addressing concerns, and ensuring that the change takes root at all levels.</span></p>",
+      "image": "assets/Annotation 2024-11-05 143000.jpg"
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Middle Manager</strong></span></span></p>",
+      "attribution": "<p><span>Acts as a bridge between leadership and employees, translating the change vision into actionable steps for their teams while providing feedback from the ground up.</span></p>",
+      "image": "assets/Annotation 2024-11-05 143212.jpg"
+    },
+    {
+      "type": "image",
+      "src": "assets/Backgound 2.0@4x-100-3.jpg",
+      "alt": "",
+      "width": 1680,
+      "height": 935,
+      "caption": "<p>Managing and leading change is&nbsp;less about&nbsp;who does the work, and more about identifying the necessary tasks and allocating resources appropriately.</p>"
+    },
+    {
+      "type": "text",
+      "body": "<p><span>In <span><strong>smaller initiatives</strong></span>, these roles are often interchangeable, with one person handling multiple responsibilities. As a result, you may see yourself in more than one of these roles, either in the past or present, which is completely normal. However, in<span> <strong>larger initiatives</strong></span>, the roles become more distinct, with dedicated individuals for each role to ensure all tasks are properly managed. Even though you might identify with multiple roles, there's likely one you align with the most based on your strengths and experiences.</span></p><p><span>Let's take a closer look at the each role:</span></p>"
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><span><strong>Change Managers: The Strategists</strong></span></span></p>",
+      "backgroundImage": "assets/Asset 8.svg"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "label": "Change Managers: The Strategists",
+          "content": "<p><span><span><strong>Change Managers</strong></span> focus on the people side of change, ensuring smooth transitions by developing and executing change strategies. They use project management skills to plan stakeholder engagement, communication, and training. Working closely with <span><strong>Change Leaders</strong></span>, they coordinate with functions like human resources, communications, and learning specialists to manage risks and ensure adoption. <span><strong>Change Managers</strong></span> oversee day-to-day activities, adjust plans, and guide teams through each phase to ensure a seamless rollout.</span></p>",
+          "image": "assets/Asset 25@4x-8.png"
+        },
+        {
+          "label": "Change Managers: Meet Rosetta",
+          "content": "<p><span>Rosetta is a detail-oriented <span><strong>Change Manager</strong></span> known for her precision and ability to coordinate complex projects. She excels at orchestrating multiple teams, keeping everyone aligned with strategic goals. Her proactive problem-solving and clear communication help ensure smooth transitions and successful project outcomes.</span></p>",
+          "image": "assets/Change Manager 2.0_2@4x-8.png"
+        },
+        {
+          "label": "Change Manager Toolkit",
+          "content": "<p>Take a moment to review the resources available to support Change Managers.</p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><span><strong>Change Leaders: The Visionaries</strong></span></span></p>",
+      "backgroundImage": "assets/Asset 8-1.svg"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "label": "Change Leaders: The Visionaries ",
+          "content": "<p><span><span><strong>Change Leaders</strong></span> set the strategic direction for change, inspiring and aligning the organization to the vision. They mobilize top management, secure resources, and communicate the \"why\" behind the change. They bridge strategy with implementation, empowering teams and driving momentum for lasting impact.</span></p>",
+          "image": "assets/Mega 3@4x-8.png"
+        },
+        {
+          "label": "Change Leaders: Meet Jin",
+          "content": "<p><span>Jin is a charismatic <span><strong>Change Leader</strong> </span>known for his ability to inspire and align teams with the organization’s mission. His strength lies in communicating a clear vision and empowering his team to embrace change, fostering trust and enthusiasm throughout the process.</span></p>",
+          "image": "assets/Change Leader 2.0@4x-8.png"
+        },
+        {
+          "label": "Change Leader Toolkit",
+          "content": "<p>Take a moment to review the resources available to support Change Leaders. </p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><span><strong>Change Agents: The Facilitators</strong></span></span></p>",
+      "backgroundImage": "assets/Asset 8-2.svg"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "label": "Change Agents: The Facilitators",
+          "content": "<p><span><span><strong>Change Agents</strong></span> act as the bridge between leadership and the front line, helping teams adapt to change. They address resistance, promote positive perspectives, and ensure smooth transitions by engaging peers and advocating for change at all levels. <span><strong>Change Agents</strong></span> help translate organizational change into practical, actionable steps for employees. &nbsp;They are typically trusted and influential individuals at the working level who are keen to participate and develop their careers.</span></p>",
+          "image": "assets/Mega 1_1@4x-8.png"
+        },
+        {
+          "label": "Change Agents: Meet Imani",
+          "content": "<p><span>Imani is an influential <span><strong>Change Agent</strong></span> known for her ability to connect with colleagues at all levels. Her proactive approach and empathetic communication skills help ease anxieties, making her a trusted figure in ensuring that change is positively received and embraced.</span></p>",
+          "image": "assets/Change Agent_1@4x-8.png"
+        },
+        {
+          "label": "Change Agent Toolkit",
+          "content": "<p>Take a moment to review the resources available to support Change Agents.</p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><span><strong>Middle Managers: The Implementors</strong></span></span></p>",
+      "backgroundImage": "assets/Asset 8-3.svg"
+    },
+    {
+      "type": "tabs",
+      "items": [
+        {
+          "label": "Middle Manager: The Implementer",
+          "content": "<p><span><span><strong>Middle Managers</strong></span> bridge strategic vision and operational execution, ensuring change plans are successfully implemented. They translate the&nbsp;<span><strong>Change Leaders' </strong></span>vision into actionable steps for their teams, managing both logistical and human aspects of change, and adapting strategies based on feedback. In smaller initiatives at the branch, division, or even sector level, middle managers will often pick up tasks that would normally be done by a change manager in a bigger initiative. &nbsp;They may choose to delegate CM tasks to a change agent or working group.</span></p>",
+          "image": "assets/Mega 2@4x-8.png"
+        },
+        {
+          "label": "Middle Manager: Meet Sebastian",
+          "content": "<p><span>Sebastian (Seb)&nbsp;is a pragmatic <span><strong>Middle Manager</strong></span> who excels at turning </span><span>strategic plans into action. He skillfully navigates his team’s concerns, </span><span>ensuring they remain productive and engaged during change, while </span><span>adapting strategies to meet their needs.</span></p>",
+          "image": "assets/Middle Manager_1@4x-8.png"
+        },
+        {
+          "label": "Middle Manager Toolkit",
+          "content": "<p>Take a moment to review the resources available to support Middle Managers.</p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": "<p><span><span>Ideally <strong>change leaders</strong> (visionaries) are <strong>supported by change managers</strong> (strategists), and <strong>middle managers</strong> (implementors) <strong>are supported by change agents</strong> (facilitators).</span></span></p>"
+    },
+    {
+      "type": "hotspot",
+      "image": "assets/wave (2).svg",
+      "spots": []
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Change Hub Toolkit Practice</strong></span></span></p>",
+      "attribution": "",
+      "image": "assets/tool-box (1).svg"
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "body": "<p>For the toolkit examples above, the resources were all filtered by role. Now let's explore the toolkit to see what resources are similar across roles. Familiarize yourself with filter function in the top left of the page to compare and contrast resources for the roles in each phase. &nbsp;For example, select \"Where <strong>Phase</strong> is <strong>Phase 1: Understanding the Change</strong>\".</p><ul><li><p>Which resources are the same?</p></li><li><p>Which resources are specific to a role?</p></li><li><p>Which role has the most resources? Which has the fewest?</p></li><li><p>Why do you think some resources are repeated for multiple roles?</p></li></ul>"
+    },
+    {
+      "type": "airtable",
+      "url": "https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX"
+    },
+    {
+      "type": "hotspot",
+      "image": "assets/wave (3).svg",
+      "spots": []
+    },
+    {
+      "type": "text",
+      "body": "<p><strong>Depending on the size and complexity of the initiative, the toolkit resources will align with different roles. &nbsp;Work with your team to decide what the roles are, who maps to each role, and which of the toolkit resources are needed. &nbsp;Use the knowledge base and toolkit as a basis - but remember, there is no one-size-fits-all approach. You will need leadership buy-in to scope and scale your change effort appropriately.</strong></p>"
+    },
+    {
+      "type": "quote",
+      "text": "<p><span><span><strong>Confirming &nbsp;your role</strong></span></span></p>",
+      "attribution": "",
+      "image": "assets/customer.svg"
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Confirming your role</strong></p>",
+      "body": "<p>We have developed the following 20 questions assessment to help clarify your role in the change team. Take the assessment to see where you roles lie.... Did you score high in more than one area?</p>"
+    },
+    {
+      "type": "airtable",
+      "url": "https://ircc.qualtrics.com/jfe/form/SV_1FEBRUq67WUP6Rg"
+    }
+  ]
+}

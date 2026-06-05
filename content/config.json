@@ -1,0 +1,24 @@
+{
+  "org": {
+    "name": "The Change Hub",
+    "logo": "assets/logo.png",
+    "primaryColor": "#1c4f52",
+    "accentColor": "#1c4f52",
+    "fontBody": "Poppins",
+    "fontHeading": "Poppins"
+  },
+  "site": {
+    "title": "The Change Hub",
+    "subtitle": "Change Management Learning Platform",
+    "favicon": "assets/favicon.ico"
+  },
+  "toolkit": {
+    "airtableEmbedUrl": "",
+    "airtableChangeRolesUrl": ""
+  },
+  "framework": {
+    "name": "Change Hub Framework",
+    "abbreviation": "CHF",
+    "phases": 5
+  }
+}

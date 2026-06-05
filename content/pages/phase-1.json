@@ -1,0 +1,114 @@
+{
+  "slug": "phase-1",
+  "title": "Phase 1: Understanding the Change",
+  "lessonId": "mQwmmkp5L3DaGyzz7ncD7cxg3c-XkSEh",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "<p><span><span><strong>Introduction</strong></span></span></p>",
+      "body": "<p><span><span>Phase 1 lays the foundation for organizational change. It involves understanding the organization's current state, assessing readiness for change, and predicting impacts of proposed changes. This phase is crucial as it brings together Change Managers, Change Leaders, Change Agents, and Middle Managers. Each role contributes uniquely to set the stage for successful change. By thoroughly examining the organization and preparing for what's ahead, Phase 1 creates </span><span>a solid base for all future change efforts.</span></span></p>"
+    },
+    {
+      "type": "hotspot",
+      "image": "assets/role 2_1@4x-8.png",
+      "imageWidth": 1680,
+      "imageHeight": 406,
+      "spots": [
+        {
+          "id": "cm3ixot2g02xc3h744ev7ga3h",
+          "x": 11.093284970238097,
+          "y": 95.07384422956656,
+          "title": "CM: Rosetta",
+          "content": "<p><span>Rosetta will&nbsp;assess the organization's current operations, readiness, and the potential impacts of changes, preparing an initial strategy. She will&nbsp;collaborate closely with the change agent, Imani, and the middle manager, Seb,&nbsp;to gather insights to support these assessments, ensuring that all key concerns are factored into the change strategy.</span></p>",
+          "icon": "01"
+        },
+        {
+          "id": "cm3ixot2g02xd3h746klnbbhe",
+          "x": 37.83668154761905,
+          "y": 95.07384422956656,
+          "title": "CL:Jin",
+          "content": "<p><span><span>Jin will articulate a vision early and clearly&nbsp;that aligns with Rosetta's findings from the earlier&nbsp;assessments, rallying support across the organization and advocating for necessary resources.</span></span></p>",
+          "icon": "01"
+        },
+        {
+          "id": "cm3ixot2g02xe3h74zxj7st86",
+          "x": 63.92973400297619,
+          "y": 95.07384422956656,
+          "title": "CA: Imani",
+          "content": "<p><span><span>Imani will work with the change manager, Rosetta,&nbsp;and middle manager, Seb,&nbsp;to articulate the current state,&nbsp;forecast potential impacts on their teams and express initial questions and concerns from employees. &nbsp;She will also help raise awareness by sharing information as it becomes available, ensuring her peers understand the upcoming changes and are prepared for what lies ahead.</span></span></p>",
+          "icon": "01"
+        },
+        {
+          "id": "cm3ixot2g02xf3h74msmihvf0",
+          "x": 89.92513020833334,
+          "y": 95.07384422956656,
+          "title": "MM: Sebastian",
+          "content": "<p><span><span>Seb will collaborate with the change manager, Rosetta, and the change agent, Imani, to ensure that operational insights and realities are shared and to communicate early questions or concerns on behalf on behalf of his team. He will ensure that everyone understands the change vision and is engaged.</span></span></p>",
+          "icon": "01"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><strong>Goals</strong></span><strong> </strong><span>and Risks</span><strong> </strong><span><strong>of Phase 1:</strong></span></p>",
+      "body": "<p>Havin<span>g clear goals for each phase is crucial for progress and momentum. Failing to meet goals can lead to missed deadlines, budget overruns, and decreased morale. Select each tab below to review the Goals and Risks for this phase.</span></p>"
+    },
+    {
+      "type": "accordion",
+      "items": [
+        {
+          "heading": "Goal 1: Establish a Comprehensive Baseline",
+          "body": "<p><span><strong>Goal: </strong></span><strong>Establish a Comprehensive Baseline</strong></p><p>Conduct detailed assessments to identify the current operational, technological, and cultural landscape of the organization.</p><p><span><span><strong>Risk:</strong></span><span><strong> </strong></span></span><span><strong>Inadequate Baseline Understanding</strong></span></p><p>Not fully understanding the current situation can lead to strategies based on wrong assumptions. This may create solutions that worsen existing problems instead of solving them. It's like trying to navigate without a map.</p>"
+        },
+        {
+          "heading": "Goal 2: Evaluate Organizational Readiness",
+          "body": "<p><span><strong>Goal:</strong></span><strong>Evaluate Organizational Readiness</strong></p><p>Determine how prepared the organization is, both structurally and culturally, to embrace the proposed changes.</p><p><span><span><strong>Risk: </strong></span></span><span><strong>Poor Organizational Readiness Assessment</strong></span></p><p>A superficial assessment of an organization's readiness can result in under preparedness. This may cause significant employee resistance, poor adoption of changes, or even project failure. Initiatives may start enthusiastically but quickly falter when unexpected challenges arise.</p>"
+        },
+        {
+          "heading": "Goal 3: Forecast Stakeholder Impacts & Engagement Strategies",
+          "body": "<p><span><strong>Goal: </strong></span><strong>Forecast Stakeholder Impacts and Engagement Strategies</strong></p><p>Anticipate the effects of proposed changes and develop strategies to manage these impacts, ensuring all stakeholders are prepared and supportive.</p><p><span><span><strong>Risk: </strong></span></span><span><strong>Ineffective Engagement and Impact Forecasting</strong></span></p><p>Failing to actively involve stakeholders in the change process and inaccurately predicting the impacts of changes can lead to multiple issues. These include lack of support, delays, increased costs, operational disruptions, and failure to achieve intended benefits. This can damage trust in both the change process and leadership, potentially derailing the entire change effort.</p>"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "body": "<p><strong>Available funding for initiatives in phase 1 versus the work to be done in phase 1 are often misaligned. &nbsp;It's important to identify who will do this important up-front work. &nbsp;Change management is proactive in nature. &nbsp;If not started early, it can quickly turn into reactive damage control.&nbsp;</strong></p>"
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><strong><em>Start early and reap returns; start late and pay penalties.</em></strong></span></p>"
+    },
+    {
+      "type": "image",
+      "src": "assets/key takeaway LG@4x-8.png",
+      "alt": "",
+      "width": 1680,
+      "height": 674
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><strong>Confirming Readiness for Phase 2&nbsp;</strong></span></p>",
+      "body": "<p>The organization is ready to transition from Phase 1 to Phase 2 when:</p>"
+    },
+    {
+      "type": "list",
+      "variant": "checkboxes",
+      "items": [
+        "<p><span><strong>Change Necessity and Alignment:</strong> </span>The need for change is well-understood and thoroughly documented, with clear strategic alignment.</p>",
+        "<p><span><strong>Stakeholder Engagement Preparedness:</strong></span> Stakeholder engagement strategies are established, and key players are ready to support the change process.</p>",
+        "<p><span><strong>Organizational Awareness and Forecasting:</strong> </span>The organization possesses a comprehensive understanding of its current state and readiness, along with a clear forecast of expected impacts.</p>"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Confirming Readiness for Phase 2&nbsp;</strong></p>",
+      "body": "<p>This simplified checklist ensures that the fundamentals are firmly established, setting a strong foundation for the more detailed planning and preparation that will occur in Phase 2.</p>"
+    },
+    {
+      "type": "text",
+      "heading": "<p><span><strong>Conclusion</strong></span></p>",
+      "body": "<p><span>Phase 1 focuses on understanding the organization's current state and its desired future. This knowledge guides the entire change process. It's important to approach this phase methodically, involving different roles within the organization. The goal is to create a strong foundation that can support the complexities of organizational change, paving the way for successful implementation and lasting results. &nbsp;Consider this early work as an investment and get creative about how to find resources to get the work started.</span></p>",
+      "backgroundImage": "assets/Backgound 2.0@4x-100-5.jpg"
+    }
+  ]
+}

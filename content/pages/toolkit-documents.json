@@ -1,0 +1,1259 @@
+{
+  "slug": "toolkit-documents",
+  "title": "Change Hub Toolkit: Documents",
+  "lessonId": "_1cM29M0urLQicNr8HqGrPylcbZY8fdY",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "<p><strong>Assessing Readiness</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assessing Readiness.docx",
+          "src": "assets/Assessing Readiness.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19323
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assessing Readiness_TG_FR_Final.docx",
+          "src": "assets/Assessing Readiness_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 28418
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Understanding Your Stakeholders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Understanding Your Stakeholders - EN (1).docx",
+          "src": "assets/Understanding Your Stakeholders - EN (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 24973
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Understanding Your Stakeholders - FR.docx",
+          "src": "assets/Understanding Your Stakeholders - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 35001
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Defining the Change </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Defining the Change - EN.docx",
+          "src": "assets/Defining the Change - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18058
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Defining the Change - FR.docx",
+          "src": "assets/Defining the Change - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19797
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Creating the Case for Change</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Case for Change - EN.docx",
+          "src": "assets/Creating the Case for Change - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16767
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Case for Change - FR.docx",
+          "src": "assets/Creating the Case for Change - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20130
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Creating Awareness </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating Awareness.docx",
+          "src": "assets/Creating Awareness.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17173
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating Awareness_TG_FR_Final.docx",
+          "src": "assets/Creating Awareness_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 25802
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Analyzing the Current State</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Analyzing the Current State - EN.docx",
+          "src": "assets/Analyzing the Current State - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 34315
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Defining the Change </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Defining the Change - EN (1).docx",
+          "src": "assets/Defining the Change - EN (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18058
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Defining the Change - FR (1).docx",
+          "src": "assets/Defining the Change - FR (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19797
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Assessing Impact</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assessing Impact - EN.docx",
+          "src": "assets/Assessing Impact - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 75624
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Change Impact Assessment Tool - EN.xlsm",
+          "src": "assets/Change Impact Assessment Tool - EN.xlsm",
+          "mimeType": "application/vnd.ms-excel.sheet.macroenabled.12",
+          "size": 696125
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Phase 1 Cheat Sheet for Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 1 Cheat Sheet for Change Leaders.docx",
+          "src": "assets/Phase 1 Cheat Sheet for Change Leaders.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 15812
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 1 Cheat Sheet for Change Leaders_TG_FR_Final.docx",
+          "src": "assets/Phase 1 Cheat Sheet for Change Leaders_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 23876
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Creating the Change Strategy Pt. 1</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Strategy Pt. 1.docx",
+          "src": "assets/Creating the Change Strategy Pt. 1.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18370
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Strategy Pt_1_TG_FR_Final.docx",
+          "src": "assets/Creating the Change Strategy Pt_1_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 27485
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Analyzing the Current State</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Analyzing the Current State - EN (1).docx",
+          "src": "assets/Analyzing the Current State - EN (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 34315
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Clarifying the Vision </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Clarifying the Vision - EN.docx",
+          "src": "assets/Clarifying the Vision - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21015
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Clarifying the Vision - FR.docx",
+          "src": "assets/Clarifying the Vision - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 24373
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Assessing Readiness</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assessing Readiness (1).docx",
+          "src": "assets/Assessing Readiness (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19323
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assessing Readiness_TG_FR_Final (1).docx",
+          "src": "assets/Assessing Readiness_TG_FR_Final (1).docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 28418
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Ideas for Engagement </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Ideas for Engagement.docx",
+          "src": "assets/Ideas for Engagement.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 15051
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Ideas for Engagement_TG_FR_Final.docx",
+          "src": "assets/Ideas for Engagement_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 23393
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Creating the Change Strategy Pt. 2</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Strategy PT_2.docx",
+          "src": "assets/Creating the Change Strategy PT_2.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16951
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Strategy PT_2_TG_FR_Final.docx",
+          "src": "assets/Creating the Change Strategy PT_2_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 25749
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Key Questions to Build Understanding</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Key Questions to Build Understanding.docx",
+          "src": "assets/Key Questions to Build Understanding.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14842
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Key Questions to Build Understanding_TG_FR_Final.docx",
+          "src": "assets/Key Questions to Build Understanding_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 23460
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Building Awareness and Desire for Change</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Building Awareness and Desire for Change - EN.docx",
+          "src": "assets/Building Awareness and Desire for Change - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17623
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Building Awareness and Desire for Change- FR.docx",
+          "src": "assets/Building Awareness and Desire for Change- FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 25210
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Preparing for the Change: Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_CL.docx",
+          "src": "assets/Preparing for the Change_CL.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14988
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_CL_TG_FR_Final.docx",
+          "src": "assets/Preparing for the Change_CL_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18541
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Phase 2 Cheat Sheet for Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 2 Cheat Sheet for Change Leaders.docx",
+          "src": "assets/Phase 2 Cheat Sheet for Change Leaders.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 15022
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 2 Cheat Sheet for Change Leaders_TG_FR_Final.docx",
+          "src": "assets/Phase 2 Cheat Sheet for Change Leaders_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 23116
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Assigning CM Resources </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assigning CM Resources.docx",
+          "src": "assets/Assigning CM Resources.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18059
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Assigning CM Resources_TG_FR_Final.docx",
+          "src": "assets/Assigning CM Resources_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 22175
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Preparing for the Change: Change Agents</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_CA.docx",
+          "src": "assets/Preparing for the Change_CA.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14697
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_CA_TG_FR_Final.docx",
+          "src": "assets/Preparing for the Change_CA_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 22927
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Engaging Your Stakeholders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Engaging Your Stakeholders.docx",
+          "src": "assets/Engaging Your Stakeholders.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 29410
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Engaging Your Stakeholders_TG_FR_Final.docx",
+          "src": "assets/Engaging Your Stakeholders_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 35623
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Aligning the Organization</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Aligning the Organization.docx",
+          "src": "assets/Aligning the Organization.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17348
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Aligning the Organization_TG_FR_Final.docx",
+          "src": "assets/Aligning the Organization_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 26547
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Preparing for the Change: Middle Managers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_MMs.docx",
+          "src": "assets/Preparing for the Change_MMs.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14670
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Preparing for the Change_MM_TG_FR_Final.docx",
+          "src": "assets/Preparing for the Change_MM_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18371
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Aligning Your Team</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Aligning Your Team.docx",
+          "src": "assets/Aligning Your Team.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17184
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Aligning Your Team_TG_FR_Final.docx",
+          "src": "assets/Aligning Your Team_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 25980
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Phase 2 Cheat Sheet for Change Managers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 2 Cheat Sheet for Change Managers.docx",
+          "src": "assets/Phase 2 Cheat Sheet for Change Managers.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20187
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 2 Cheat Sheet for Change Managers_TG_FR_Final.docx",
+          "src": "assets/Phase 2 Cheat Sheet for Change Managers_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 22347
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Asking the Right Questions</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Asking the Right Questions_MM.docx",
+          "src": "assets/Asking the Right Questions_MM.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 15239
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Asking the Right Questions_MMs_TG_FR_Final.docx",
+          "src": "assets/Asking the Right Questions_MMs_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18574
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Checking In</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Checking In.docx",
+          "src": "assets/Checking In.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17235
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Checking In_TG_FR_Final.docx",
+          "src": "assets/Checking In_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21098
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Practicing Inclusive Change</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Practicing Inclusive Change - EN.docx",
+          "src": "assets/Practicing Inclusive Change - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17954
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Practicing Inclusive Change - FR.docx",
+          "src": "assets/Practicing Inclusive Change - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21533
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Implementing the Change: Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Implementing the Change_CL.docx",
+          "src": "assets/Implementing the Change_CL.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14978
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Implementing the Change_CL_TG_FR_Final.docx",
+          "src": "assets/Implementing the Change_CL_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18297
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Correcting Course</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Correcting Course - EN.docx",
+          "src": "assets/Correcting Course - EN.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16694
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Correcting Course - FR.docx",
+          "src": "assets/Correcting Course - FR.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20188
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Implementing the Change: Middle Managers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Implementing the Change_MM.docx",
+          "src": "assets/Implementing the Change_MM.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14725
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Implementing the Change_MM_TG_FR_Final.docx",
+          "src": "assets/Implementing the Change_MM_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18054
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Keeping Track</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Keeping Track.docx",
+          "src": "assets/Keeping Track.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17516
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Keeping Track_TG_FR_Final.docx",
+          "src": "assets/Keeping Track_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21598
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Supporting Your Peers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Supporting Your Peers.docx",
+          "src": "assets/Supporting Your Peers.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16934
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Supporting Your Peers_TG_FR_Final.docx",
+          "src": "assets/Supporting Your Peers_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21337
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Tracking Progress </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Tracking Progress.docx",
+          "src": "assets/Tracking Progress.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16587
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Tracking Progress_TG_FR_Final.docx",
+          "src": "assets/Tracking Progress_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20513
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Gathering Feedback</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Gathering Feedback.docx",
+          "src": "assets/Gathering Feedback.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16763
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Gathering Feedback_FR_TG_Final.docx",
+          "src": "assets/Gathering Feedback_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20190
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Adapting to the Change: Middle Managers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Adapting to the Change_MM.docx",
+          "src": "assets/Adapting to the Change_MM.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14962
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Adapting to the Change_MM_FR_TG_Final.docx",
+          "src": "assets/Adapting to the Change_MM_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18317
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Adapting to the Change: Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Adapting to the Change_CL.docx",
+          "src": "assets/Adapting to the Change_CL.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14994
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Adapting to the Change_CL_FR_TG_Final.docx",
+          "src": "assets/Adapting to the Change_CL_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18244
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Monitoring Progress</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Monitoring Progress.docx",
+          "src": "assets/Monitoring Progress.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18428
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Monitoring Progress_FR_TG_Final_1.docx",
+          "src": "assets/Monitoring Progress_FR_TG_Final_1.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20657
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Making Adjustments</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Making Adjustments.docx",
+          "src": "assets/Making Adjustments.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17656
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Making Adjustments_FR_TG_Final.docx",
+          "src": "assets/Making Adjustments_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19498
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Stabilizing Your Team</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Stabilizing Your Team.docx",
+          "src": "assets/Stabilizing Your Team.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16837
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Stabilizing Your Team_FR_TG_Final.docx",
+          "src": "assets/Stabilizing Your Team_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19999
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Soldifying the Change: Change Leaders</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Solidifying the Change_CL.docx",
+          "src": "assets/Solidifying the Change_CL.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14984
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Solidifying the Change_CL_FR_TG_Final.docx",
+          "src": "assets/Solidifying the Change_CL_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18758
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Getting In Front of Change</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Getting in Front of Change.docx",
+          "src": "assets/Getting in Front of Change.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16242
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Getting in Front of Change_FR_TG_Final.docx",
+          "src": "assets/Getting in Front of Change_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18131
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Soldifying the Change: Middle Managers</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Solidifying the Change_MM.docx",
+          "src": "assets/Solidifying the Change_MM.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 14998
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Solidifying the Change_MM_FR_TG_Final.docx",
+          "src": "assets/Solidifying the Change_MM_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 23275
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Collecting Lessons Learned</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Collecting Lessons Learned_CL_CM_P5.docx",
+          "src": "assets/Collecting Lessons Learned_CL_CM_P5.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 19977
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Collecting Lessons Learned_FR_TG_Final.docx",
+          "src": "assets/Collecting Lessons Learned_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 22319
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Making the Change Stick </strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Making the Change Stick.docx",
+          "src": "assets/Making the Change Stick.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 18565
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Making the Change Stick_FR_TG_Final.docx",
+          "src": "assets/Making the Change Stick_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 20787
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p><strong>Celebrating and Learning</strong></p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Celebrating and Learning.docx",
+          "src": "assets/Celebrating and Learning.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17372
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Celebrating and Learning_FR_TG_Final.docx",
+          "src": "assets/Celebrating and Learning_FR_TG_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 21683
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p>Phase 1 Cheat Sheet for Change Managers</p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 1 Cheat Sheet for Change Managers.docx",
+          "src": "assets/Phase 1 Cheat Sheet for Change Managers.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 16025
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Phase 1 Cheat Sheet for Change Managers_TG_FR_Final.docx",
+          "src": "assets/Phase 1 Cheat Sheet for Change Managers_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 24702
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p>Creating the Change Plan</p>"
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Plan.docx",
+          "src": "assets/Creating the Change Plan.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 17506
+        }
+      ]
+    },
+    {
+      "type": "attachment",
+      "items": [
+        {
+          "filename": "Creating the Change Plan_TG_FR_Final.docx",
+          "src": "assets/Creating the Change Plan_TG_FR_Final.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "size": 26456
+        }
+      ]
+    }
+  ]
+}

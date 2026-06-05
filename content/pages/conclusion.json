@@ -1,0 +1,26 @@
+{
+  "slug": "conclusion",
+  "title": "Conclusion",
+  "lessonId": "qOiBLiAvoSV66ihFb0KAm9btBfXQDcmP",
+  "blocks": [
+    {
+      "type": "text",
+      "heading": "<p><span>Congratulations!</span></p>",
+      "body": "<p>Having completed the foundational knowledge of the hub, you should now have a &nbsp;understanding of the following topics:</p>"
+    },
+    {
+      "type": "list",
+      "variant": "numbered",
+      "items": [
+        "<p>Understand the Change Hub Framework, which outlines five key phases of organizational change: Understanding, Preparing, Implementing, Adapting, and Solidifying.</p>",
+        "<p>Identify your specific role within a change initiative—whether you are a Change Manager, Change Leader, Change Agent, or Middle Manager.</p>",
+        "<p>Use the Change Hub Toolkit to find resources like templates, guides, and best practices for each phase of a change initiative.</p>"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "<p>Being Change Ready!</p>",
+      "body": "<p>The toolkit is designed for ongoing use. You can return to it at any point in your change journey to access the resources most relevant to your role and the current phase of your initiative. The toolkit is intended to be continuously updated with new tools and insights, so you can stay informed about the evolving world of change management.</p><p>By leveraging these resources, you can enhance your ability to manage and lead change initiatives successfully, ensuring a smoother transition and better outcomes for your organization.</p>"
+    }
+  ]
+}
