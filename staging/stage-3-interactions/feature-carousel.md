@@ -7,6 +7,9 @@ Stage 3 — Interactions
 - The World of Change
 - The Change Hub Framework (CHF)
 
+## Rise family/variant
+`interactive-fullscreen/process`
+
 ## What it is
 A slideshow-style component where content is presented one slide at a time with previous/next navigation. May have dot indicators. Content per slide can be text, image, or mixed.
 

@@ -4,7 +4,16 @@
 Stage 3 — Interactions
 
 ## Pages that use it
-All 5 Phase pages (Phase 1–5) — the most complex interaction type in the project.
+**9 out of 14 pages** — more widespread than originally mapped:
+- How this Hub Works
+- The World of Change
+- Contexts of Change
+- Change Roles
+- The Change Hub Framework (CHF)
+- Phase 1–5 (all 5 phase pages)
+
+## Rise family/variant
+`interactive-fullscreen/labeledgraphic`
 
 ## What it is
 An image with clickable/tappable "hotspot" markers at specific pixel coordinates. Clicking a marker reveals a popup or panel with content about that point. Each phase page likely uses a diagram of the CHF with hotspots pointing to key elements.

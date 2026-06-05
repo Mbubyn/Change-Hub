@@ -58,8 +58,10 @@ Things Claude cannot do for you. Work through these as you go — each item note
 ### [ ] Confirm Airtable embed URLs
 - **What:** The iframe embed URLs for the two Airtable embeds in the course
 - **Why:** These go into `content/config.json` as the toolkit dashboard links; we need to verify they're public and not expiring
-- **How:** Open the original Rise course, find the Airtable iframes on "How this Hub Works" and "Change Roles" pages, copy the embed src URLs
-- **Check:** Do the URLs work when opened in a browser? Do they require an Airtable login?
+- **FOUND in runtime-data.js (2026-06-05):**
+  - "How this Hub Works": `https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX?layout=card`
+  - "Change Roles": _(still needs extraction from runtime-data.js)_
+- **Check:** Do these URLs work when opened in a browser? Do they require an Airtable login?
 - **Blocks:** Stage 5 (toolkit page)
 
 ### [ ] Decide Airtable access model

@@ -26,8 +26,35 @@ For each of the 14 pages, a JSON file like `content/pages/world-of-change.json` 
 - [ ] Write output files to `content/pages/<slug>.json`
 - [ ] Validate output — check all 14 pages have content
 
+## RESOLVED — runtime-data.js format (discovered 2026-06-05)
+The file is a JSONP call wrapping base64-encoded JSON:
+```js
+__jsonp("runtime-data.js", "<base64-string>")
+```
+Parse approach:
+1. Read file as string
+2. Extract base64 with regex: `/__jsonp\("runtime-data\.js","([^"]+)"\)/`
+3. `Buffer.from(b64, 'base64').toString('utf8')` → JSON string
+4. `JSON.parse()` → course object
+
+**Top-level structure:** `course.lessons[]` — array of 17 items (3 sections + 14 pages). Array order = display order.
+
+**Lesson types:** `"blocks"` (14 pages) and `"section"` (3 sidebar headers)
+
+**Block types within a lesson's `items[]`:** `text`, `quote`, `image`, `divider`, `list`, `multimedia`, `interactive`
+
+**Interactive block identification:** use `item.family` + `item.variant`:
+- `interactive/tabs` → tabs
+- `interactive/accordion` → accordion
+- `flashcard/flashcard` → flip cards
+- `interactive-fullscreen/process` → carousel
+- `interactive-fullscreen/labeledgraphic` → hotspot map
+
+**Brand color:** `#1c4f52` (from `course.color` and `course.theme.colorAccent`)
+
+**Fonts:** `course.headingTypeface` = "Poppins", `course.bodyTypeface` = "Poppins"
+
 ## Open Questions
-- What is the actual structure of `runtime-data.js`? This is the biggest unknown in Stage 2. Rise may use a flat array of lesson objects, a nested tree, or a lookup table keyed by GUID. Need to inspect the file before estimating effort.
-- Does Rise store interaction data inline with content, or in separate data structures within the file?
-- Are image references in `runtime-data.js` CDN URLs or relative paths? (Expected: CDN URLs that need remapping)
-- Should the script be destructive (overwrite existing content files) or safe (only write if file doesn't exist)? (Destructive with a `--force` flag is cleanest)
+- Are image references in `runtime-data.js` CDN URLs or local paths? (Need to inspect individual image blocks — likely CDN)
+- Should the script be destructive (overwrite existing content files) or safe? (Destructive with `--force` flag is cleanest)
+- What does the `interactive-fullscreen/labeledgraphic` (hotspot) data structure look like? Need to inspect to understand coordinate format and image reference.
