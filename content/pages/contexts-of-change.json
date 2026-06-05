@@ -5,7 +5,7 @@
   "blocks": [
     {
       "type": "text",
-      "heading": "<p><span><strong>Change at Work: A System Effort</strong></span></p>",
+      "heading": "<strong>Change at Work: A System Effort</strong>",
       "body": "<p><span><span>In public sector organizations, change requires collaboration between several key functions from the planning stages through to implementation. Each function plays a role in ensuring changes are effectively planned, executed, and embedded into the organization. The number of functions involved will vary depending on the scale and complexity of the change. </span><span>For <strong>incremental</strong> or <strong>transitional</strong> changes, fewer functions may be involved, with much of the planning and execution happening at the department level embedded within sectors, branches, and teams - often led by middle managers&nbsp;or working groups as part of regular business improvement. </span></span></p><p><span><span>Larger, <strong>transformational</strong> changes require coordination across a broader range of functions and require resources with a dedicated focus on the coordinating a strategy and plan for all impacted stakeholders to address the people aspects of the change - often involving roles described as: &nbsp;Change Manager, Change Management Practitioner, Change Management Professional, Change Management Consultant, Change Management Advisor. </span></span></p><p><span><span>Regardless of the type of change, <strong><u>a change leader is always needed</u></strong>.</span></span>&nbsp;</p>"
     },
     {
@@ -15,7 +15,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>Key Functions</strong></span></p>"
+      "heading": "<strong>Key Functions</strong>"
     },
     {
       "type": "list",
@@ -43,7 +43,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>Challenges and Opportunities in Public Sector Change</strong></span></p>",
+      "heading": "<strong>Challenges and Opportunities in Public Sector Change</strong>",
       "body": "<p>Leading and managing change in the public sector presents unique challenges and opportunities. Unlike private organizations where change can be swiftly implemented, public sector change often contends with the inertia of established systems and a diverse array of stakeholder interests, from government bureaucrats to everyday citizens. Successful change in this context requires a strategy that is robust yet flexible, clear yet comprehensive, and direct yet people-focused.</p>"
     },
     {

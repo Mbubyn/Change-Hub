@@ -64,6 +64,18 @@ function cleanHtml(html) {
   return stripInlineStyles(unwrapEditorDiv(html));
 }
 
+// For heading fields: strip outer <p> wrapper and leftover bare <span> tags
+// so the text can safely be set as innerHTML of an <h2>/<h3>
+function cleanHeading(html) {
+  if (!html) return '';
+  let s = cleanHtml(html);
+  // Strip single outer <p>...</p>
+  s = s.replace(/^<p>([\s\S]*)<\/p>$/i, '$1').trim();
+  // Strip bare <span> wrappers (no attributes)
+  s = s.replace(/<span>([\s\S]*?)<\/span>/gi, '$1');
+  return s.trim();
+}
+
 // Extract iframe URL from Rise's embed HTML string
 function extractIframeUrl(embedHtml) {
   if (!embedHtml) return null;
@@ -93,7 +105,7 @@ function parseTextBlock(block) {
   const item = block.items && block.items[0];
   if (!item) return null;
   const result = { type: 'text' };
-  if (item.heading) result.heading = cleanHtml(item.heading);
+  if (item.heading) result.heading = cleanHeading(item.heading);
   if (item.paragraph) result.body = cleanHtml(item.paragraph);
   const bgImg = block.background && block.background.media && block.background.media.image;
   if (bgImg) result.backgroundImage = resolveImage(bgImg);

@@ -5,7 +5,7 @@
   "blocks": [
     {
       "type": "text",
-      "heading": "<p><span><strong>Introduction: Understanding Change Roles</strong></span></p>",
+      "heading": "<strong>Introduction: Understanding Change Roles</strong>",
       "body": "<p><span>Once an initiative begins, effective change <span><strong>requires teamwork from different roles</strong></span>, each bringing unique skills. Knowing these roles helps organize work and ensures successful change. Change teams can have both formal and informal roles, and these responsibilities may shift depending on the size and complexity of the initiative.</span></p><p><span>In addition to the <span><strong>Change Leader</strong></span> and <span><strong>Change Manager</strong></span>, two other roles—<span><strong>Middle Manager</strong></span> and <span><strong>Change Agent</strong></span>—are essential to bridging the gap between planning and implementation. These roles help translate the change strategy into actionable steps and ensure the changes are embedded within impacted areas. Together, all four roles create a dynamic, interconnected relationship, enabling a continuous feedback loop that links on-the-ground insights and feedback back to strategy and planning, supporting alignment and smoother transitions throughout the organization.</span></p>"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><span><strong>Change Managers: The Strategists</strong></span></span></p>",
+      "heading": "<span><strong>Change Managers: The Strategists</strong></span>",
       "backgroundImage": "assets/Asset 8.svg"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><span><strong>Change Leaders: The Visionaries</strong></span></span></p>",
+      "heading": "<span><strong>Change Leaders: The Visionaries</strong></span>",
       "backgroundImage": "assets/Asset 8-1.svg"
     },
     {
@@ -103,7 +103,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><span><strong>Change Agents: The Facilitators</strong></span></span></p>",
+      "heading": "<span><strong>Change Agents: The Facilitators</strong></span>",
       "backgroundImage": "assets/Asset 8-2.svg"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><span><strong>Middle Managers: The Implementors</strong></span></span></p>",
+      "heading": "<span><strong>Middle Managers: The Implementors</strong></span>",
       "backgroundImage": "assets/Asset 8-3.svg"
     },
     {
@@ -190,7 +190,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><strong>Confirming your role</strong></p>",
+      "heading": "<strong>Confirming your role</strong>",
       "body": "<p>We have developed the following 20 questions assessment to help clarify your role in the change team. Take the assessment to see where you roles lie.... Did you score high in more than one area?</p>"
     },
     {

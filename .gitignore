@@ -22,6 +22,9 @@ desktop.ini
 .env
 .env.local
 
+# Claude Code local settings
+.claude/settings.local.json
+
 # Build artifacts (none expected — this is a no-build project)
 dist/
 build/

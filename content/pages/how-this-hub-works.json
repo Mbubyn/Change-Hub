@@ -5,7 +5,7 @@
   "blocks": [
     {
       "type": "text",
-      "heading": "<p><span>About this Hub</span></p>",
+      "heading": "About this Hub",
       "body": "<p><span><span>Whether you're new to Change Management (CM) and Change Leadership (CL) or have prior experience, the Hub offers comprehensive support to enhance your effectiveness in managing and leading change. &nbsp;</span></span></p><p><span><span>The Change Hub offers:</span></span></p><ul><li><p><span><strong>Knowledge base:</strong></span><span> Start with the interactive knowledge base to gain foundational learning on the Change Hub's Framework and how to navigate the toolkit effectively.</span></p></li><li><p><span><strong>Change Hub toolkit:</strong></span><span><strong> </strong>Access tailored solutions and activities for any situation based on your role and what phase of change you’re in.</span></p></li><li><p><span><strong>Ongoing access:</strong></span><span> The Hub is always available, ensuring you can refresh your knowledge or find necessary resources whenever needed.</span></p></li></ul><p><span><span><strong>Hub Details</strong></span></span></p><p><span>By shifting the focus from knowledge retention to practical application, the hub reduces the pressure to memorize detailed information. Instead, it promotes confidence in finding and applying resources when needed, fostering continuous learning and adaptability—essential qualities in effective change management environments. This dynamic knowledge base and toolkit will evolve continuously, offering a destination to revisit for updates, new tools, and insights.</span></p>",
       "backgroundImage": "assets/hub bg 2.0@4x-8.png"
     },
@@ -22,7 +22,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>The Change Ready Knowledge Base</strong></span></p>",
+      "heading": "<strong>The Change Ready Knowledge Base</strong>",
       "body": "<p><span><span>Included in the Hub is an interactive, self-paced knowledge base. It will support both beginners and experienced professionals in navigating their roles and responsibilities within a change initiative. The base introduces users to foundational concepts in change and the Change Hub's framework, which encompasses multiple roles and phases, ensuring that you can easily access the information relevant to your specific role.</span></span></p>",
       "backgroundImage": "assets/Asset 12.svg"
     },
@@ -34,7 +34,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>The Change Ready Knowledge Base</strong></span></p>",
+      "heading": "<strong>The Change Ready Knowledge Base</strong>",
       "body": "<p><span><span>The &nbsp;Toolkit is an interactive resource, designed to help you quickly find the tools and materials required during any phase of a change initiative. It allows you to filter, sort, and curate resources based on your specific needs, ensuring instant access to the most relevant information. Whether you are searching for templates, guides, or best practices, the toolbox streamlines access to critical resources, enabling you to act efficiently and effectively in your change management or leadership roles.</span></span></p>",
       "backgroundImage": "assets/hub background 4.svg"
     },

@@ -5,7 +5,7 @@
   "blocks": [
     {
       "type": "text",
-      "heading": "<p><span><span><strong>Introduction</strong></span></span></p>",
+      "heading": "<span><strong>Introduction</strong></span>",
       "body": "<p><span><span>Phase 4, \"Adapting to the Change,\" is about fine-tuning the changes made in Phase 3. In this phase, the organization evaluates how well the changes are working, listens to feedback, and makes adjustments as needed. The goal is to ensure the changes achieve their intended results. The initiative's full operationalization is underway.</span></span></p>"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>Goals</strong></span><strong> </strong><span>and Risks</span><strong> </strong><span><strong>of Phase 4:</strong></span></p>",
+      "heading": "<strong>Goals</strong><strong> </strong>and Risks<strong> </strong><strong>of Phase 4:</strong>",
       "body": "<p>Different roles take on different priorities during each of the five phase. Given the description above, which role takes on the priority for this phase?</p>"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>Confirming Readiness for Phase 5&nbsp;</strong></span></p>",
+      "heading": "<strong>Confirming Readiness for Phase 5&nbsp;</strong>",
       "body": "<p>As organizations prepare to transition from the adjustment and refinement of implemented changes in Phase 4 to the final <span>embedding and institutionalizing</span><span> </span>stage in Phase 5, ensuring readiness is essential. Here's a streamlined checklist to confirm readiness for moving forward into this culminating phase:</p>"
     },
     {
@@ -93,12 +93,12 @@
     },
     {
       "type": "text",
-      "heading": "<p><strong>Confirming Readiness for Phase 2&nbsp;</strong></p>",
+      "heading": "<strong>Confirming Readiness for Phase 2&nbsp;</strong>",
       "body": "<p>This checklist ensures that the organization is well-prepared to successfully transition into Phase 5, focusing on solidifying and institutionalizing the changes made. The foundation built through effective adaptation in Phase 4 supports a seamless move into reinforcing these changes as permanent aspects of the organizational landscape.</p>"
     },
     {
       "type": "text",
-      "heading": "<p><span><strong>Conclusion</strong></span></p>",
+      "heading": "<strong>Conclusion</strong>",
       "body": "<p>Phase 4, \"Adapting to the Change,\" focuses on fine-tuning the implemented changes to ensure they work effectively. Learners should understand its importance in optimizing changes to meet organizational needs. This phase involves making informed adjustments, keeping stakeholders engaged, and promoting a culture of ongoing improvement. Success here is crucial for embedding changes in Phase 5 and making them a lasting part of the organization's culture.</p>",
       "backgroundImage": "assets/Backgound 2.0@4x-100-8.jpg"
     }

@@ -231,69 +231,36 @@ function handleRoute() {
 
   updateActiveNav(slug);
 
+  const pane = document.getElementById('contentPane');
+
   if (!page) {
-    renderPage({ title: 'Page Not Found', slug, interactions: [] }, true);
+    if (pane) pane.innerHTML = '<div class="page-placeholder"><h2>Page not found</h2><p>Try navigating using the sidebar.</p></div>';
     return;
   }
 
-  renderPage(page);
-  document.getElementById('contentArea')?.scrollTo(0, 0);
+  if (pane) pane.innerHTML = '<div class="content-loading">Loading…</div>';
+
+  fetch(`content/pages/${slug}.json`)
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(data => {
+      if (pane) renderPageContent(data, pane);
+      document.getElementById('contentArea')?.scrollTo(0, 0);
+    })
+    .catch(() => {
+      // Fallback if fetch fails (e.g. opened as file://)
+      if (pane) pane.innerHTML = `
+        <div class="page-header"><h1 class="page-title">${escHtml(page.title)}</h1></div>
+        <div class="page-content"><div class="page-placeholder">
+          <h2>Run via a local server to load content</h2>
+          <p>Open a terminal in the project root and run:<br><code>npx serve .</code> or <code>python -m http.server</code></p>
+        </div></div>`;
+    });
 }
 
 function updateActiveNav(slug) {
   document.querySelectorAll('[data-slug]').forEach(el => {
     el.classList.toggle('active', el.dataset.slug === slug);
   });
-}
-
-// ============================================================
-// Page renderer — placeholder content for Stage 1
-// ============================================================
-function renderPage(page, notFound = false) {
-  const pane = document.getElementById('contentPane');
-  if (!pane) return;
-
-  if (notFound) {
-    pane.innerHTML = `
-      <div class="page-placeholder">
-        <h2>Page not found</h2>
-        <p>Try navigating using the sidebar.</p>
-      </div>
-    `;
-    return;
-  }
-
-  const badges = (page.interactions || []).map(i =>
-    `<span class="interaction-badge">${escHtml(i)}</span>`
-  ).join('');
-
-  const interactionSection = badges
-    ? `<div class="interaction-list">${badges}</div>`
-    : '';
-
-  pane.innerHTML = `
-    <div class="page-header">
-      <h1 class="page-title">${escHtml(page.title)}</h1>
-    </div>
-    <div class="page-content">
-      <div class="page-placeholder">
-        <h2>Content coming in Stage 4</h2>
-        <p>This page will render full content once the SCORM data is extracted.</p>
-        ${interactionSection}
-      </div>
-    </div>
-  `;
-}
-
-// ============================================================
-// Utilities
-// ============================================================
-function escHtml(str) {
-  return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
 }
 
 // ============================================================
