@@ -266,7 +266,9 @@ function updateActiveNav(slug) {
 // ============================================================
 // Init
 // ============================================================
-function init() {
+async function init() {
+  const config = await loadConfig();
+  applyConfig(config);
   buildPageRegistry();
   renderSidebar();
   handleRoute();

@@ -6,22 +6,27 @@ Stage 4 — Content Population
 ## Pages covered
 - Conclusion
 - Sources
-- Change Hub Toolkit: Documents (main toolkit page — Stage 5 handles the download list)
+- Change Hub Toolkit: Documents (main toolkit page)
 - Lexicon
 
 ## Notes
-- **Conclusion** and **Sources** are likely text-only pages — no interaction components needed
-- **Toolkit: Documents** page structure is built here; the 96-item download list is Stage 5's `feature-toolkit-downloads.md`
-- **Lexicon** renders from `lexicon.json` — alphabetical list of terms with definitions
+- **Conclusion** — 3 blocks: 2 text + 1 list. Renders as text-only page. ✓
+- **Sources** — 2 text blocks with attribution/license text. ✓
+- **Toolkit: Documents** — 145 blocks: 49 text (category headings) + 96 attachment blocks (one per document). All 96 files confirmed present in `assets/`. ✓
+- **Lexicon** — 1 text block. The entire 30-term glossary is stored as a `<ul>` inside a single Rise `text/paragraph` block. Renders as a bulleted list with bold terms. ✓
 
 ## Tasks
-- [ ] Wire Conclusion page (text content from JSON)
-- [ ] Wire Sources page (text/link list from JSON)
-- [ ] Wire Lexicon page — render alphabetical glossary from `lexicon.json`
-- [ ] Wire Toolkit page shell (intro text, Airtable iframe placeholder, download section placeholder)
+- [x] Wire Conclusion page
+- [x] Wire Sources page
+- [x] Wire Toolkit page — 96 attachment download buttons grouped by category headings
+- [x] Wire Lexicon page — 30 terms rendered as styled list
+- [ ] Visual check in browser
 
-## Open Questions
-- Does the Lexicon have category groupings, or is it a flat A–Z list? (Check Rise original)
-- Does the Sources page use footnote-style citations or a bibliography format?
-- Is there a "Back to top" button on long pages like the Lexicon? (Good UX addition — add if Rise has it)
-- Should the Lexicon entries be linkable (anchor tags per term) so other pages can deep-link to a definition? (Nice future feature; document as open question for Stage 6)
+## Resolved questions
+- Lexicon format: flat `<ul>` with 30 terms, each `<li>` has `<strong>Term: </strong>definition`
+- Sources: 2 text blocks (origin story + licensing/gifting statement)
+- No "Back to top" button on lexicon in Rise original — add in future UX pass if needed
+- Lexicon is NOT a separate JSON format — it's inline HTML in a text block body
+
+## Open
+- Should Toolkit headings act as section dividers between groups of download buttons? Currently they render as `.block-text` headings — may need a lighter visual treatment (e.g., smaller, muted, uppercase)

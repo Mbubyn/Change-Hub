@@ -17,7 +17,7 @@ function renderPageContent(pageData, container) {
   container.appendChild(header);
 
   const content = document.createElement('div');
-  content.className = 'page-content';
+  content.className = `page-content page--${pageData.slug}`;
   container.appendChild(content);
 
   for (const block of pageData.blocks || []) {

@@ -20,19 +20,24 @@ Wire each page's content JSON (produced in Stage 2) to the interaction component
 | How this Hub Works | Airtable iframe |
 | The World of Change | Tabs, Flip card, Accordion, Carousel |
 | Contexts of Change | Accordion |
-| Change Roles | Tabs, Airtable iframe |
+| Change Roles | Tabs (4×), Airtable iframes (2), Quotes (6) |
 | The Change Hub Framework (CHF) | Accordion, Tabs, Carousel |
 
 ## Tasks
-- [ ] Build page renderer function: reads page JSON, iterates blocks, dispatches to correct renderer
-- [ ] Wire "How this Hub Works" — Airtable iframe embed from config
-- [ ] Wire "The World of Change" — all 4 interaction types
-- [ ] Wire "Contexts of Change" — Accordion
-- [ ] Wire "Change Roles" — Tabs + Airtable iframe
-- [ ] Wire "The Change Hub Framework" — Accordion + Tabs + Carousel
-- [ ] Visual check each page against Rise original
+- [x] Build page renderer function: reads page JSON, iterates blocks, dispatches to correct renderer
+- [x] Wire "How this Hub Works" — Airtable iframe embed from config
+- [x] Wire "The World of Change" — all 4 interaction types
+- [x] Wire "Contexts of Change" — Accordion
+- [x] Wire "Change Roles" — 4 tabs groups + 2 Airtable iframes (Airtable + Qualtrics)
+- [x] Wire "The Change Hub Framework" — Accordion + Tabs + Carousel
+- [ ] Visual check each page against Rise original (needs browser)
 
-## Open Questions
-- Should the page renderer be a single `renderPage(slug)` function, or should each page have a hand-authored HTML fragment? (Single renderer from JSON — required for white-label)
-- How do we handle pages with mixed text blocks and interactions in sequence? (The blocks array handles this — text blocks render as `<p>`, interaction blocks call the renderer)
-- Are there any pages in Part 1 with instructional intro text above the interactions that needs special styling (e.g., a hero section)? (Check Rise original)
+## Resolved questions
+- Single renderer from JSON — confirmed correct for white-label
+- Blocks array handles mixed text + interactions in sequence
+- Quote blocks on Change Roles are role-persona introductions (not traditional quotes) — renders correctly with existing quote component
+
+## Notes
+- Change Roles Airtable URL: `https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX`
+- Change Roles Qualtrics survey URL: `https://ircc.qualtrics.com/jfe/form/SV_1FEBRUq67WUP6Rg` (rendered as iframe via airtable block type)
+- Both URLs baked into content JSON and also added to `content/config.json`

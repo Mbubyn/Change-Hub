@@ -57,6 +57,8 @@ function stripInlineStyles(html) {
     .replace(/<br\s+class="break-when-trailing"\s*\/?>/gi, '')
     // Clean empty paragraphs that just held a trailing br
     .replace(/<p>\s*<\/p>/gi, '')
+    // Strip Rise-specific table classes (keep the table, drop fr-* and block-text__table classes)
+    .replace(/\s*class="(?:fr-alternate-rows|fr-dashed-borders|block-text__table)(?:\s[^"]*)?"/, '')
     .trim();
 }
 
@@ -71,8 +73,8 @@ function cleanHeading(html) {
   let s = cleanHtml(html);
   // Strip single outer <p>...</p>
   s = s.replace(/^<p>([\s\S]*)<\/p>$/i, '$1').trim();
-  // Strip bare <span> wrappers (no attributes)
-  s = s.replace(/<span>([\s\S]*?)<\/span>/gi, '$1');
+  // Strip all <span> tags (opening and closing) — headings are never richer than strong/em/a
+  s = s.replace(/<span[^>]*>/gi, '').replace(/<\/span>/gi, '');
   return s.trim();
 }
 
@@ -83,16 +85,13 @@ function extractIframeUrl(embedHtml) {
   return match ? match[1] : null;
 }
 
+const ASSETS_PREFIX = 'assets';
+
 // Resolve a media image object to a local asset path (or null)
 function resolveImage(mediaImage) {
   if (!mediaImage) return null;
-  // USER-uploaded assets have a crushedKey that matches the bundled filename
-  if (mediaImage.useCrushedKey && mediaImage.crushedKey) {
-    return `assets/${mediaImage.crushedKey}`;
-  }
-  // DEFAULT Rise assets (e.g., mountains.jpg) may also have crushedKey
   if (mediaImage.crushedKey) {
-    return `assets/${mediaImage.crushedKey}`;
+    return `${ASSETS_PREFIX}/${mediaImage.crushedKey}`;
   }
   return null;
 }
@@ -157,7 +156,7 @@ function parseAttachmentBlock(block) {
     if (!att) return null;
     return {
       filename: att.key || att.originalUrl,
-      src: `assets/${att.key || att.originalUrl}`,
+      src: `${ASSETS_PREFIX}/${att.key || att.originalUrl}`,
       mimeType: att.mimeType || '',
       size: att.size || 0
     };
@@ -350,8 +349,8 @@ function run() {
   fs.mkdirSync(PAGES_DIR, { recursive: true });
   fs.mkdirSync(path.dirname(CONFIG_PATH), { recursive: true });
 
-  // Write config.json if it doesn't already exist
-  if (!fs.existsSync(CONFIG_PATH) || FORCE) {
+  // Write config.json only if it doesn't exist — never overwrite (deployers edit this file)
+  if (!fs.existsSync(CONFIG_PATH)) {
     const config = {
       org: {
         name: course.title,

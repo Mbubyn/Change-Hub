@@ -5,7 +5,7 @@
   "blocks": [
     {
       "type": "text",
-      "heading": "<span><strong>Introduction</strong></span>",
+      "heading": "<strong>Introduction</strong>",
       "body": "<p><span><span>Phase 4, \"Adapting to the Change,\" is about fine-tuning the changes made in Phase 3. In this phase, the organization evaluates how well the changes are working, listens to feedback, and makes adjustments as needed. The goal is to ensure the changes achieve their intended results. The initiative's full operationalization is underway.</span></span></p>"
     },
     {

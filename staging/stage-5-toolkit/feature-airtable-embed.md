@@ -4,29 +4,31 @@
 Stage 5 — Toolkit
 
 ## Where it appears
-- "How this Hub Works" page — main toolkit dashboard iframe
-- "Change Roles" page — roles-filtered resource view
+- "How this Hub Works" — main toolkit dashboard (`?layout=card`)
+- "Change Roles" — role-filtered Airtable view + Qualtrics survey form
 
-## What it is
-Airtable iframes embedded in the page. The embed URL comes from `content/config.json` so deployers can swap in their own Airtable base without touching HTML.
+## URLs (extracted from runtime-data.js, 2026-06-05)
+| Page | URL |
+|---|---|
+| How this Hub Works | `https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX?layout=card` |
+| Change Roles (Airtable) | `https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX` |
+| Change Roles (Qualtrics) | `https://ircc.qualtrics.com/jfe/form/SV_1FEBRUq67WUP6Rg` |
 
-## Data format (config)
-```json
-"toolkit": {
-  "airtableEmbedUrl": "https://airtable.com/embed/...",
-  "airtableChangeRolesUrl": "https://airtable.com/embed/..."
-}
-```
+All three URLs are baked into the block JSON and also stored in `content/config.json`.
 
 ## Tasks
-- [ ] Confirm both Airtable embed URLs from the original Rise course (see help.md)
-- [ ] Add URLs to `content/config.json`
-- [ ] Render iframes in the appropriate page templates, reading URL from config
-- [ ] Test that iframes load without login prompt
-- [ ] Add graceful fallback if iframe fails to load (message + link to toolkit CSV download)
+- [x] Extract embed URLs from SCORM source
+- [x] Add URLs to `content/config.json`
+- [x] Iframes render via `renderAirtableBlock()` in renderer.js
+- [ ] **Verify in browser**: do iframes load without a login prompt?
+- [ ] Add graceful fallback if Airtable iframe is blocked/empty
+
+## Fallback plan (if Airtable requires login)
+If the Airtable iframes prompt for login, we have two options:
+- A) Replace with a link to open Airtable in a new tab (quick fix)
+- B) Build the self-hosted CSV dashboard (Stage 6 roadmap)
 
 ## Open Questions
-- Are the Airtable bases publicly accessible (no Airtable login required to view)? This is critical — if they require login, the embed is broken for most users. (Needs verification — see help.md)
-- Do the embed URLs have expiry or rate-limiting behavior?
-- For white-label deployers who don't have Airtable: should the page automatically fall back to the CSV-rendered download list, or show a "configure your Airtable" message? (Auto-fallback to CSV is better UX)
-- Can we detect iframe load failure in JS to trigger the fallback? (Yes, via `iframe.onerror` or `postMessage` — but cross-origin iframes are tricky)
+- Are Airtable bases publicly accessible without login?
+- Do embed URLs expire or rate-limit?
+- For white-label deployers without Airtable: should iframe be hidden if `airtableEmbedUrl` is empty in config? (Yes — renderer should return null if no URL)

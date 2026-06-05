@@ -14,12 +14,20 @@ Stage 4 — Content Population
 All 5 phase pages share the same interaction pattern: **Hotspot map + Accordion**. This makes them the most structurally consistent section and a good test of the component system.
 
 ## Tasks
-- [ ] Wire Phase 1 first as the reference implementation (validate hotspot + accordion together)
-- [ ] Confirm Phase 1 renders correctly, then apply same pattern to Phases 2–5
-- [ ] Verify hotspot images are correct and coordinates are accurate for each phase
-- [ ] Confirm accordion content is complete for each phase
+- [x] Wire Phase 1 (reference implementation — hotspot + accordion)
+- [x] Wire Phases 2–5 (same pattern, confirmed)
+- [x] Verify hotspot images resolve correctly
+- [x] Confirm accordion content is complete for each phase
+- [ ] Visual check in browser
 
-## Open Questions
-- Do all 5 phases use the same base diagram image with different hotspots, or different images? (Need to confirm from runtime-data.js in Stage 2)
-- Is there a phase navigation element (prev/next phase) at the bottom of each phase page, or do users navigate only via the sidebar? (Check Rise original)
-- Are the phases meant to be worked through sequentially, or are they reference material to jump into at any point? (The latter — but prev/next may still be helpful UX)
+## Resolved questions
+- Each phase uses a DIFFERENT image (`role 2_1@4x-8.png`, `role 2_1@4x-8-1.png`, etc.) — not the same base diagram
+- All 5 phase images have exactly 4 hotspot spots with the same initial coordinates (same base positions, different image context)
+- All phase images are local in `assets/` — no CDN dependency
+- Phase navigation: sidebar only (no prev/next at bottom of pages)
+- Phases are reference material — users jump in at any point, not sequential
+
+## Notes
+- Phase hotspot images: `assets/role 2_1@4x-8.png` through `assets/role 2_1@4x-8-4.png`
+- All 4 spots per phase have percentage-based coordinates — responsive without any conversion
+- Each phase also has text blocks, an image block, and a list block alongside the main hotspot + accordion

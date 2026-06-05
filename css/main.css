@@ -118,6 +118,13 @@ body {
   gap: 0.625rem;
   overflow: hidden;
 }
+.sidebar-logo-img {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
 
 .sidebar-org-name {
   font-size: var(--font-size-sm);
@@ -405,6 +412,26 @@ body {
 .block-body li { margin-bottom: 0.25rem; }
 .block-body strong { font-weight: 600; }
 .block-body a { color: var(--color-accent); text-underline-offset: 2px; }
+/* Tables (from Rise text/table blocks) */
+.block-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-size-sm);
+  margin-bottom: 0.875rem;
+}
+.block-body th, .block-body td {
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+.block-body th {
+  background: var(--color-accent);
+  color: white;
+  font-weight: 600;
+}
+.block-body tr:nth-child(even) td { background: var(--color-bg); }
+.rise-table-wrap { overflow-x: auto; }
 
 /* =========================================================
    Quote block
@@ -474,6 +501,22 @@ body {
   border-top: 2px solid var(--color-border);
   margin: 2rem 0;
 }
+
+/* =========================================================
+   Toolkit page — category label headings
+   ========================================================= */
+.page--toolkit-documents .block-heading {
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+.page--toolkit-documents .block-text:first-child .block-heading { margin-top: 0; }
 
 /* =========================================================
    Attachment (download button)

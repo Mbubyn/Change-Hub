@@ -1,20 +1,22 @@
 {
   "org": {
     "name": "The Change Hub",
-    "logo": "assets/logo.png",
+    "logo": null,
     "primaryColor": "#1c4f52",
-    "accentColor": "#1c4f52",
+    "primaryColorDark": "#163d40",
+    "primaryColorLight": "#e8f0f0",
     "fontBody": "Poppins",
     "fontHeading": "Poppins"
   },
   "site": {
     "title": "The Change Hub",
     "subtitle": "Change Management Learning Platform",
-    "favicon": "assets/favicon.ico"
+    "favicon": null
   },
   "toolkit": {
-    "airtableEmbedUrl": "",
-    "airtableChangeRolesUrl": ""
+    "airtableEmbedUrl": "https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX?layout=card",
+    "airtableChangeRolesUrl": "https://airtable.com/embed/appYREIl6r0cHYr3H/shrM2SYQwhrkgChRX",
+    "qualtricsFormUrl": "https://ircc.qualtrics.com/jfe/form/SV_1FEBRUq67WUP6Rg"
   },
   "framework": {
     "name": "Change Hub Framework",
