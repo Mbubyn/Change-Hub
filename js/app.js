@@ -158,9 +158,22 @@ function toggleSidebar() {
   if (!sidebar) return;
   const isCollapsed = sidebar.classList.contains('collapsed');
   sidebar.classList.toggle('collapsed');
-  const btn = document.getElementById('sidebarToggle');
-  if (btn) btn.setAttribute('aria-expanded', String(isCollapsed));
+  const toggleBtn = document.getElementById('sidebarToggle');
+  if (toggleBtn) toggleBtn.setAttribute('aria-expanded', String(isCollapsed));
+  setSidebarOpenBtn(!isCollapsed);
   localStorage.setItem('ch-sidebar-open', String(isCollapsed));
+}
+
+function setSidebarOpenBtn(sidebarIsCollapsed) {
+  const btn = document.getElementById('sidebarOpenBtn');
+  if (!btn) return;
+  if (sidebarIsCollapsed) {
+    btn.classList.add('visible');
+    btn.setAttribute('aria-expanded', 'false');
+  } else {
+    btn.classList.remove('visible');
+    btn.setAttribute('aria-expanded', 'true');
+  }
 }
 
 function saveSectionState() {
@@ -190,8 +203,16 @@ function restoreSectionState() {
 
   // Restore sidebar open state
   const sidebarOpen = localStorage.getItem('ch-sidebar-open');
-  if (sidebarOpen === 'false') {
+  const sidebarShouldBeCollapsed = sidebarOpen === 'false';
+  if (sidebarShouldBeCollapsed) {
     document.getElementById('sidebar')?.classList.add('collapsed');
+  }
+  setSidebarOpenBtn(sidebarShouldBeCollapsed);
+
+  // Wire floating open button
+  const openBtn = document.getElementById('sidebarOpenBtn');
+  if (openBtn) {
+    openBtn.addEventListener('click', toggleSidebar);
   }
 }
 
